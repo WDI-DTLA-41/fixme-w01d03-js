@@ -10,7 +10,7 @@ var user = {
   bornOn: new Date('December 12, 1979')
 };
 
-user['occupiation'] = 'spaceman';
+user['occupation'] = 'spaceman';
 
 var destinations = [];
 
